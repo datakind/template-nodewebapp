@@ -1,3 +1,12 @@
+# TEMPLATE INSTRUCTIONS!
+
+## Features:
+
+1. Dynamic readme that adds the github repo name into readme upon creation of this repo.
+
+## NOTE: Remove everything above this part of the readme.
+---
+
 # Introduction for <reponame>
 
 --INSERT AN INTRODUCTION FOR YOUR APP; EXPAINING WHAT IS THE PURPOSE OF YOUR APP AND ITS BENIFITS--
