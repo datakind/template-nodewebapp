@@ -3,6 +3,8 @@
 ## Features:
 
 1. Dynamic readme that adds the github repo name into readme upon creation of this repo.
+2. Eslint is included in github actions. (.github/workflows/lint.yml)
+3. Push to our dockerhub repo using Github actions (.github/workflows/push_to_docker.yml)
 
 ## NOTE: Remove everything above this part of the readme.
 ---
